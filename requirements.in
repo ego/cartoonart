@@ -1,0 +1,6 @@
+-e file:.
+scipy
+numpy==1.24.2
+opencv-python
+rich==13.3.4
+typer[all]
