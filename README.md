@@ -85,6 +85,7 @@ cartoonart --install-completion
 
 [CONTRIBUTING](CONTRIBUTING.md)
 
+
 ## Stats
 
 [![Monthly downloads](https://pepy.tech/badge/cartoonart/month)](https://pepy.tech/project/cartoonart)
