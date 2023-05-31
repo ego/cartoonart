@@ -291,9 +291,11 @@ git commit -m "New release"
 ./scripts/tag-release.sh
 ```
 
-Configure CI/CD [github actions].
+Cartoon Art use [github actions] for CI/CD.
 
-Lint GitHub Actions workflow files [actionlint].
+![Cartoon Art CI/CD](https://raw.githubusercontent.com/ego/cartoonart/main/img/cicd.png)
+
+Hint: tool for linting GitHub Actions workflow files [actionlint].
 
 [^contrib1]: Even though, these resources focus on open source projects and
     communities, the general ideas behind collaborating with other developers
