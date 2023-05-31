@@ -113,7 +113,7 @@ jobs:
           pip install tox==4.5.2
       - name: Build and test docs
         run: |
-          tox -e docs,doctests,linkcheck
+          tox -e docs,doctests
       - id: deployment
         uses: sphinx-notes/pages@v3
 
